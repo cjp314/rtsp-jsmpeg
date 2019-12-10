@@ -1,0 +1,13 @@
+[2019-08-28T11:12:15.436] [INFO] server - ws服务开启，端口：9999
+[2019-08-28T11:12:15.689] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/102?transportmode=multicast
+[2019-08-28T11:12:15.761] [INFO] server - test: New WebSocket Connection (1 total)
+[2019-08-28T11:12:15.772] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/101?transportmode=multicast
+[2019-08-28T11:12:15.829] [INFO] server - test: New WebSocket Connection (2 total)
+[2019-08-28T11:12:16.134] [INFO] server - test: Disconnected WebSocket (1 total)
+[2019-08-28T11:12:16.140] [INFO] server - test: Disconnected WebSocket (0 total)
+[2019-08-28T11:12:16.321] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/101?transportmode=multicast
+[2019-08-28T11:12:16.326] [INFO] server - test: New WebSocket Connection (1 total)
+[2019-08-28T11:12:16.335] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/102?transportmode=multicast
+[2019-08-28T11:12:16.337] [INFO] server - test: New WebSocket Connection (2 total)
+[2019-08-28T11:12:17.101] [INFO] server - Client from remoteAddress ::ffff:127.0.0.1 not connected.已移除
+[2019-08-28T11:12:17.254] [INFO] server - Client from remoteAddress ::ffff:127.0.0.1 not connected.已移除

@@ -1,0 +1,21 @@
+[2019-08-28T11:09:36.653] [INFO] server - ws服务开启，端口：9999
+[2019-08-28T11:09:36.927] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/102?transportmode=multicast
+[2019-08-28T11:09:37.231] [INFO] server - test: New WebSocket Connection (1 total)
+[2019-08-28T11:09:37.236] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/101?transportmode=multicast
+[2019-08-28T11:09:37.347] [INFO] server - test: New WebSocket Connection (2 total)
+[2019-08-28T11:09:37.378] [INFO] server - test: Disconnected WebSocket (1 total)
+[2019-08-28T11:09:37.393] [INFO] server - test: Disconnected WebSocket (0 total)
+[2019-08-28T11:09:37.531] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/101?transportmode=multicast
+[2019-08-28T11:09:37.533] [INFO] server - test: New WebSocket Connection (1 total)
+[2019-08-28T11:09:37.553] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/102?transportmode=multicast
+[2019-08-28T11:09:37.558] [INFO] server - test: New WebSocket Connection (2 total)
+[2019-08-28T11:09:38.571] [INFO] server - Client from remoteAddress ::ffff:127.0.0.1 not connected.已移除
+[2019-08-28T11:09:38.902] [INFO] server - Client from remoteAddress ::ffff:127.0.0.1 not connected.已移除
+[2019-08-28T11:09:50.745] [INFO] server - test: Disconnected WebSocket (1 total)
+[2019-08-28T11:09:50.754] [INFO] server - test: Disconnected WebSocket (0 total)
+[2019-08-28T11:09:50.777] [INFO] server - Client from remoteAddress ::ffff:127.0.0.1 not connected.已移除
+[2019-08-28T11:09:50.786] [INFO] server - Client from remoteAddress ::ffff:127.0.0.1 not connected.已移除
+[2019-08-28T11:09:50.922] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/101?transportmode=multicast
+[2019-08-28T11:09:50.987] [INFO] server - test: New WebSocket Connection (1 total)
+[2019-08-28T11:09:50.990] [INFO] server - ws客户端url /rtsp://admin:daway0001@192.168.0.252:554/Streaming/Channels/102?transportmode=multicast
+[2019-08-28T11:09:51.054] [INFO] server - test: New WebSocket Connection (2 total)
