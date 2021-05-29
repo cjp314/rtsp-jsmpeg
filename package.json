@@ -12,6 +12,6 @@
   "dependencies": {
     "log4js": "^5.1.0",
     "pm2-intercom": "^1.0.0",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   }
 }
